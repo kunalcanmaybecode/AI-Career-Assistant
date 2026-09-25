@@ -1,0 +1,15 @@
+# API Keys
+.env
+
+# Vector Database
+db/
+chroma_db/
+
+# Temporary PDFs
+temp_resume.pdf
+temp_jd.pdf
+
+# Python environments & cache
+venv/
+__pycache__/
+*.pyc
